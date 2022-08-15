@@ -1,0 +1,15 @@
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\bin\Debug\DWM.exe.config
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\bin\Debug\DWM.exe
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\bin\Debug\DWM.pdb
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\MainWindow.g.vb
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\Application.g.vb
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM_MarkupCompile.cache
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM_MarkupCompile.lref
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\MainWindow.baml
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM.g.resources
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM.exe
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM.pdb
+C:\Users\MONSTERMC\Downloads\New folder (3)\DWM\obj\Debug\DWM.vbproj.AssemblyReference.cache
